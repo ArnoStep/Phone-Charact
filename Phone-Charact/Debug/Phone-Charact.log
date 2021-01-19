@@ -1,0 +1,7 @@
+﻿  mylist.cpp
+C:\Users\stepa\source\repos\Phone-Charact\Phone-Charact\mylist.cpp(26,9): warning C4101: tmp: неиспользованная локальная переменная
+  Phone-Charact.cpp
+C:\Users\stepa\source\repos\Phone-Charact\Phone-Charact\Phone-Charact.cpp(32,11): warning C4101: phone: неиспользованная локальная переменная
+  Phone.cpp
+  Создание кода...
+  Phone-Charact.vcxproj -> C:\Users\stepa\source\repos\Phone-Charact\Debug\Phone-Charact.exe
